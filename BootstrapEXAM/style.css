@@ -1,19 +1,10 @@
 @media(max-width:576px)
 {
-    .focus
-    {
-        height: 750px ;
-    }
-    .box
-    {
-        height: 300px;
-        width: 100%;
-    }
+    
     .box img
     {
-        margin-left: 10%;
-        margin-top: 5%;
-        height: 200px;
+      
+        height: 100px;
         width: 80%;
     }
 }
